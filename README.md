@@ -54,8 +54,8 @@ ___
   <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=nithinjose-tech&repo=AURA-make-a-ton&&theme=radical&cache_seconds=86400&show_icons=true" />
 </a>
 
-<a href="https://github.com/nithinjose-tech/Portfolio-static">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=nithinjose-tech&repo=Portfolio-static&&theme=radical&cache_seconds=86400&show_icons=true" />
+<a href="https://github.com/nithinjose-tech/story-book-node">
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=nithinjose-tech&repo=story-book-node&&theme=radical&cache_seconds=86400&show_icons=true" />
 </a>
 
 <a href="https://github.com/nithinjose-tech/Portfolio-static">
