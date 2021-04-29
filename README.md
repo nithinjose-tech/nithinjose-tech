@@ -51,7 +51,7 @@ ___
 
 ### Technologies
 
-![Node](https://img.shields.io/badge/-Node-fff?&logo=node&logoColor=000)
+![Node](https://img.shields.io/badge/-Node-fff?&logo=nodejs&logoColor=000)
 ![React](https://img.shields.io/badge/-React-fff?&logo=react&logoColor=000)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-fff?&logo=Java&logoColor=000)
 ![Firebase](https://img.shields.io/badge/-Firebase-fff?&logo=Firebase&logoColor=000)
