@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 
 ___
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=niranjanneeru&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=86400)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nithinjose-tech&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=86400)
 
 ___
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjanneeru&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/niranjanneeru)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinjose-tech&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/niranjanneeru)
 
 ___
 
 
 <a href="https://github.com/niranjanneeru/Covid-19-Tracker">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=niranjanneeru&repo=Covid-19-Tracker&&theme=radical&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=nithinjose-tech&repo=va-news&&theme=radical&cache_seconds=86400&show_icons=true" />
 </a>
 
 
