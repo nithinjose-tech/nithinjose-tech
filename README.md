@@ -54,6 +54,7 @@ ___
 ![Node](https://img.shields.io/badge/-Node-fff?&logo=nodejs&logoColor=000)
 ![Express](https://img.shields.io/badge/-Express-fff?&logo=Express&logoColor=000)
 ![React](https://img.shields.io/badge/-React-fff?&logo=react&logoColor=000)
+![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB&logoColor=000)
 
 ![Firebase](https://img.shields.io/badge/-Firebase-fff?&logo=Firebase&logoColor=000)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=Linux&logoColor=000)
