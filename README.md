@@ -31,7 +31,7 @@ ___
 
 
 <a href="https://github.com/niranjanneeru/Covid-19-Tracker">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=nithinjose-tech&repo=va-news&&theme=radical&cache_seconds=86400&show_icons=true" />
+  <img height=170px width=400px src="https://github.com/nithinjose-tech/va-news/api/pin/?username=nithinjose-tech&repo=va-news&&theme=radical&cache_seconds=86400&show_icons=true" />
 </a>
 
 
