@@ -46,8 +46,8 @@ ___
   <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=nithinjose-tech&repo=react-native-tesla-clone&&theme=radical&cache_seconds=86400&show_icons=true" />
 </a>
 
-<a href="https://github.com/nithinjose-tech/Voice-Automated-Newsfeed">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=nithinjose-tech&repo=Voice-Automated-Newsfeed&&theme=radical&cache_seconds=86400&show_icons=true" />
+<a href="https://github.com/nithinjose-tech/ISTE-Adhena-Sponsorship">
+  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=nithinjose-tech&repo=ISTE-Adhena-Sponsorship&&theme=radical&cache_seconds=86400&show_icons=true" />
 </a>
 
 <a href="https://github.com/nithinjose-tech/Voice-Automated-Newsfeed">
