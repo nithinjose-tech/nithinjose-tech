@@ -56,7 +56,7 @@ ___
 ![React](https://img.shields.io/badge/-React-fff?&logo=react&logoColor=000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB&logoColor=000)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=MySQL&logoColor=000)
-![React Native](https://img.shields.io/badge/-React Native-fff?&logo=React Native&logoColor=000)
+
 
 ![Firebase](https://img.shields.io/badge/-Firebase-fff?&logo=Firebase&logoColor=000)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=Linux&logoColor=000)
