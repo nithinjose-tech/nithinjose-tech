@@ -35,30 +35,3 @@ ___
 </a>
 
 
-<a href="https://github.com/niranjanneeru/Anonymous-Android-App">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=niranjanneeru&repo=Anonymous-Android-App&&theme=radical&cache_seconds=86400&show_icons=true" />
-</a>
-
-
-<a href="https://github.com/niranjanneeru/Vaistas">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=niranjanneeru&repo=Vaistas&&theme=radical&cache_seconds=86400&show_icons=true" />
-</a>
-
-
-<a href="https://github.com/niranjanneeru/ANES">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=niranjanneeru&repo=ANES&&theme=radical&cache_seconds=86400&show_icons=true" />
-</a>
-
-<a href="https://github.com/niranjanneeru/Music-Machine">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=niranjanneeru&repo=Music-Machine&&theme=radical&cache_seconds=86400&show_icons=true" />
-</a>
-
-<a href="https://github.com/niranjanneeru/YT-API-Comment-Name">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=niranjanneeru&repo=YT-API-Comment-Name&&theme=radical&cache_seconds=86400&show_icons=true" />
-</a>
-
-
-<a href="https://github.com/niranjanneeru/VisCoT">
-  <img height=170px width=400px src="https://github-readme-stats.vercel.app/api/pin/?username=niranjanneeru&repo=VisCoT&&theme=radical&cache_seconds=86400&show_icons=true" />
-</a>
-
