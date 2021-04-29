@@ -25,7 +25,7 @@ ___
 
 ___
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinjose-tech&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/niranjanneeru)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinjose-tech&hide=php&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/niranjanneeru)
 
 ___
 
