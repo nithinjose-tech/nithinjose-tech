@@ -43,13 +43,15 @@ ___
 
 
 ![CSS](https://img.shields.io/badge/C-EXPERT-orange)
-![CSS](https://img.shields.io/badge/JAVA-EXPERT-orange)
+![CSS](https://img.shields.io/badge/JAVASCRIPT-EXPERT-orange)
+![CSS](https://img.shields.io/badge/HTML-EXPERT-orange)
+![CSS](https://img.shields.io/badge/CSS-EXPERT-orange)
+![CSS](https://img.shields.io/badge/JAVA-INTERMEDIATE-blue)
 ![CSS](https://img.shields.io/badge/C++-INTERMEDIATE-blue)
-![CSS](https://img.shields.io/badge/DART-INTERMEDIATE-blue)
+![CSS](https://img.shields.io/badge/PHP-INTERMEDIATE-blue)
 ![CSS](https://img.shields.io/badge/PYTHON-BEGINNER-green)
-![CSS](https://img.shields.io/badge/HTML-BEGINNER-green)
-![CSS](https://img.shields.io/badge/CSS-BEGINNER-green)
-![CSS](https://img.shields.io/badge/JAVASCRIPT-BEGINNER-green)
+
+
 
 ### Technologies
 
