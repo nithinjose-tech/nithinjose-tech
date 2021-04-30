@@ -53,7 +53,7 @@ ___
 ![CSS](https://img.shields.io/badge/C++-INTERMEDIATE-blue)
 ![CSS](https://img.shields.io/badge/PHP-INTERMEDIATE-blue)
 ![CSS](https://img.shields.io/badge/PYTHON-BEGINNER-green)
-
+![CSS](https://img.shields.io/badge/SOLIDITY-BEGINNER-green)
 
 
 ### Technologies
