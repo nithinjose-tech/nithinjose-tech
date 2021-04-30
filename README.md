@@ -62,7 +62,7 @@ ___
 ![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB&logoColor=000)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=MySQL&logoColor=000)
 ![Alan-AI](https://img.shields.io/badge/-Alan-AI-fff?&logo=alanai&logoColor=000)
-![Blockchain](https://img.shields.io/badge/-Blockchain-fff?&logo=blockchain&logoColor=000)
+![Blockchain](https://img.shields.io/badge/-Blockchain-fff?&logo=Blockchain&logoColor=000)
 
 
 
