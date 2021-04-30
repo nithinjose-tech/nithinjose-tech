@@ -39,6 +39,8 @@ ___
 [![PHP](https://img.shields.io/badge/-Php-fff?&logo=php&logoColor=306998)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=PHP)
 
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=306998)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=Python)
+
+[![Solidity](https://img.shields.io/badge/-Solidity-fff?&logo=solidity&logoColor=306998)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=Solidity)
 [![HTML](https://img.shields.io/badge/-HTML-fff?&logo=html5&logoColor=e34c26)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=HTML)
 [![CSS](https://img.shields.io/badge/-CSS-fff?&logo=css3&logoColor=264de4)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=CSS)
 
