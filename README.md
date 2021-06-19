@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/niranjannb/"><img src = "https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width=50px height=50px></a>
 <a href="https://twitter.com/niranjan_neerub"><img src = "https://avatars3.githubusercontent.com/u/50278?s=200&v=4" width=50px height=50px></a>
-<a href="https://www.instagram.com/niranjan_neeru_b/"><img src = "https://avatars3.githubusercontent.com/u/549085?s=200&v=4" width=50px height=50px></a>
+<a href="https://www.instagram.com/nithionite_access/"><img src = "https://avatars3.githubusercontent.com/u/549085?s=200&v=4" width=50px height=50px></a>
 
 <!--
 **niranjanneeru/niranjanneeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
